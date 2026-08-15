@@ -1,22 +1,17 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:DC143C&height=260&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Your%20Friendly%20Neighborhood%20Coder&descAlignY=55&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=%F0%9F%95%B7%EF%B8%8F+With+great+code+comes+great+responsibility;Full+Stack+Developer+%7C+Next.js+%7C+React.js+%7C+Node.js;Currently+building+%40+Lovely+Professional+University;Always+debugging...+always+learning" alt="Typing SVG" />
-
+  
+<img src="./spiderweb-banner.svg"  width="100%" alt="Abhishek Kumar - Spider-web themed banner"/>
 </div>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=%F0%9F%95%B7%EF%B8%8F+With+great+code+comes+great+responsibility;Next.js+%7C+React.js+%7C+Node.js;Currently+building+%40+Lovely+Professional+University" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/Abhishek10192377)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C)](https://linkedin.com/in/abhishek-sahni-6a7042308)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=DC143C)](mailto:abhisheksahni0077@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=whatsapp&logoColor=DC143C)](tel:+916284572866)
 
-</div>
-
-<div align="center">
-<img src="./spiderweb-banner.svg" width="100%" alt="Spider-web themed artwork"/>
 </div>
 
 ---
