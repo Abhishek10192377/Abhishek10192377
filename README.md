@@ -166,7 +166,15 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 </div>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC143C,100:000000&height=60&section=footer" width="100%" style="display:block; margin:0;"/>
+<img 
+  src="./1377858145d4d67b9aa72512ac39f877.gif" 
+  width="100%" 
+  alt="Spider themed profile visual"
+  style="display:block; margin:0;"
+/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC143C,100:000000&height=120&section=footer" width="100%"/>
+<h3 align="center" style="margin:10px 0;">
+  🕸️ "It's not who I am underneath, but what I code that defines me." 🕸️
+</h3>
 
-<h3 align="center">🕸️ "It's not who I am underneath, but what I code that defines me." 🕸️</h3>
