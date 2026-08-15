@@ -55,12 +55,13 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 <!-- <div align="center">
 <img src="./red net(1).png" width="100%"/>
 </div> -->
-**Languages**
+<b>Languages</b>
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=DC143C" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=DC143C" />
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=DC143C" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=.net&logoColor=DC143C" />
 
 **Frontend**
 <br/>
