@@ -15,7 +15,6 @@
 </div>
 <div align="center">
 <img src="./web-shooter-strip.svg" width="100%"/>
-<!-- <img src="./about-me-banner.svg" width="100%"/> -->
 </div>
 
 <h2 align="center">🕸️ SPIDER-SENSE ACTIVATED 🕸️</h2>
@@ -46,6 +45,9 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 </td> </tr> </table>
 
 ---
+<div align="center">
+<img src="./web-shooter-strip.svg" width="100%"/>
+</div>
 
 <h2 align="center">🕷️ WEB-SHOOTERS (Tech Stack) 🕷️</h2>
 
@@ -86,7 +88,9 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 </div>
 
 ---
-
+<div align="center">
+<img src="./web-shooter-strip.svg" width="100%"/>
+</div>
 <h2 align="center">🏙️ MISSIONS COMPLETED (Projects) 🏙️</h2>
 
 <table align="center" width="90%">
@@ -106,6 +110,9 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 </table>
 
 ---
+<div align="center">
+<img src="./web-shooter-strip.svg" width="100%"/>
+</div>
 
 <h2 align="center">💼 EXPERIENCE 💼</h2>
 
