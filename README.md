@@ -15,16 +15,32 @@
 </div>
 
 ---
+<h2 align="center">🕸️ SPIDER-SENSE ACTIVATED 🕸️</h2>
 
-<h2 align="center">🕸️ ABOUT ME 🕸️</h2>
+<table> <tr> <td width="65%" valign="middle">
 
-- 🔭 Currently working as **Assistant Software Developer** at **Lovely Professional University**
-- 🕷️ Building Student & Staff **UMS modules** using Next.js, TypeScript & Material UI
-- 📧 Independently developed a full-stack **Email Distribution System** (Node.js, SQL Server, SMTP/IMAP)
-- 📚 Creator of **Novel Web** — a MERN-stack novel reading & publishing platform
-- 🎓 B.Tech in Computer Science, IKGPTU (2021 – 2025)
-- 🌱 Always leveling up — quick learner, adaptable to new tech stacks
-- ⚡ Fun fact: switches between frontend and backend like swinging between buildings
+🕷️ ABOUT ME
+
+I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex problems into clean, scalable and user-friendly applications.
+
+🔭 Assistant Software Developer at Lovely Professional University
+🕷️ Building Student & Staff UMS modules
+⚡ Working mainly with Next.js, TypeScript & Material UI
+📧 Built a full-stack Email Distribution System
+📚 Creator of Novel Web, a MERN-stack reading & publishing platform
+🎓 B.Tech in Computer Science & Engineering
+🌱 Constantly learning and exploring new technologies
+🕸️ I enjoy working across both frontend and backend
+
+"With great code comes great responsibility."
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./200.webp" width="280" alt="Spider themed profile visual"/>
+
+</td> </tr> </table>
 
 ---
 
