@@ -13,8 +13,11 @@
 [![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=whatsapp&logoColor=DC143C)](tel:+916284572866)
 
 </div>
+<div align="center">
+<img src="./web-shooter-strip.svg" width="100%"/>
+<!-- <img src="./about-me-banner.svg" width="100%"/> -->
+</div>
 
----
 <h2 align="center">🕸️ SPIDER-SENSE ACTIVATED 🕸️</h2>
 
 <table> <tr> <td width="65%" valign="middle">
