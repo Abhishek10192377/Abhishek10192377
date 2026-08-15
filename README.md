@@ -164,7 +164,7 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek10192377&theme=dark&hide_border=true&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 </div>
----
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC143C,100:000000&height=60&section=footer" width="100%" style="display:block; margin:0;"/>
 <img 
   src="./1377858145d4d67b9aa72512ac39f877.gif" 
