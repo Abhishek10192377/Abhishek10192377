@@ -1,98 +1,136 @@
-<h1 align="center">🕸️ Hey there, I'm Abhishek Kumar 🕸️</h1>
-<h3 align="center">Your Friendly Neighborhood Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility;Slinging+webs...+and+writing+JavaScript;Building+things+one+commit+at+a+time;Bitten+by+a+radioactive+bug+🕷️" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8B0000,100:DC143C&height=260&section=header&text=Abhishek%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Your%20Friendly%20Neighborhood%20Coder&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Web%20Slinging%20in%20Progress-DC143C?style=for-the-badge&labelColor=1a1a2e" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=%F0%9F%95%B7%EF%B8%8F+With+great+code+comes+great+responsibility;Full+Stack+Developer+%7C+Next.js+%7C+React.js+%7C+Node.js;Currently+building+%40+Lovely+Professional+University;Always+debugging...+always+learning" alt="Typing SVG" />
 
----
+</div>
 
-### 🕷️ Origin Story
+<div align="center">
 
-```
-> Bitten by a radioactive line of code in 20XX
-> Gained the powers of debugging at 3 AM
-> Now I swing between frontend and backend
->   using React on my left hand, Node.js on my right
-> "Whatever comes my way, I ship it anyway."
-```
+[![Portfolio](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/Abhishek10192377)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C)](https://linkedin.com/in/abhishek-sahni-6a7042308)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=DC143C)](mailto:abhisheksahni0077@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=whatsapp&logoColor=DC143C)](tel:+916284572866)
+
+</div>
 
 ---
 
-### ⚡ My Web-Shooters (Tech Stack)
+<h2 align="center">🕸️ ABOUT ME 🕸️</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=DC143C" />
-  <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=DC143C" />
-</p>
-
-> ✏️ *Yeh mera default web-dev stack hai — apne actual tools ke hisaab se badges add/remove kar lena (jaise TypeScript, Next.js, Tailwind, Docker, etc).*
+- 🔭 Currently working as **Assistant Software Developer** at **Lovely Professional University**
+- 🕷️ Building Student & Staff **UMS modules** using Next.js, TypeScript & Material UI
+- 📧 Independently developed a full-stack **Email Distribution System** (Node.js, SQL Server, SMTP/IMAP)
+- 📚 Creator of **Novel Web** — a MERN-stack novel reading & publishing platform
+- 🎓 B.Tech in Computer Science, IKGPTU (2021 – 2025)
+- 🌱 Always leveling up — quick learner, adaptable to new tech stacks
+- ⚡ Fun fact: switches between frontend and backend like swinging between buildings
 
 ---
 
-### 🏙️ Missions Completed (Projects)
+<h2 align="center">🕷️ WEB-SHOOTERS (Tech Stack) 🕷️</h2>
 
-<table align="center">
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=DC143C" />
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui&logoColor=DC143C" />
+
+**Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=DC143C" />
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=DC143C" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=DC143C" />
+
+</div>
+
+---
+
+<h2 align="center">🏙️ MISSIONS COMPLETED (Projects) 🏙️</h2>
+
+<table align="center" width="90%">
   <tr>
-    <td width="50%">
-      <h3>🕸️ Project Name #1</h3>
-      <p>Ek line mein bata do ye project kya karta hai — jaise "A full-stack e-commerce web app with cart & payment integration."</p>
-      <a href="https://github.com/abhishke10192377"><img src="https://img.shields.io/badge/View%20Repo-DC143C?style=flat-square&logo=github" /></a>
+    <td width="50%" valign="top">
+      <h3>🕸️ Email Distribution System</h3>
+      <p><b>Tech:</b> Next.js, Node.js, SQL Server, SMTP, IMAP, TypeScript</p>
+      <p>Full-stack email distribution platform for internal communication — SMTP/IMAP integration, backend APIs with Stored Procedures, email assignment & tracking, role-based workflows. Later migrated to .NET architecture.</p>
     </td>
-    <td width="50%">
-      <h3>🕷️ Project Name #2</h3>
-      <p>Ek line mein bata do ye project kya karta hai — jaise "A real-time chat app built with Socket.io."</p>
-      <a href="https://github.com/abhishke10192377"><img src="https://img.shields.io/badge/View%20Repo-1E3A8A?style=flat-square&logo=github" /></a>
+    <td width="50%" valign="top">
+      <h3>🕷️ Novel Web</h3>
+      <p><b>Tech:</b> React.js, Node.js, Express.js, MongoDB, JWT, REST API</p>
+      <p>Full-stack novel reading & publishing platform (MERN). JWT auth, protected routes, chapter-wise reading/writing, admin dashboard for books/categories/users.</p>
+      <a href="https://novelwebfrontend.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-DC143C?style=flat-square&logo=render&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
-> ✏️ *Inn dono cards mein apne actual projects ke naam, description aur repo links daal dena.*
+---
+
+<h2 align="center">💼 EXPERIENCE 💼</h2>
+
+**🕷️ Assistant Software Developer (Full-Time)** — *Lovely Professional University*, Jalandhar
+`July 2025 – Present`
+- Developing & maintaining Student/Staff UMS modules using Next.js, TypeScript, Material UI
+- Built reusable, responsive frontend components
+- Worked with SQL Server & Stored Procedures for backend data operations
+- Independently built a full-stack Email Distribution System (Node.js, SQL Server, SMTP/IMAP)
+- Collaborated on migrating the Email system from Node.js to .NET
+
+**🕸️ Full Stack Web Developer (Intern)** — *Ansh Infotech*, Ludhiana
+`Jan 2025 – Jun 2025`
+- Built interactive dashboards & data management modules using the MERN stack
+- Integrated JWT-based authentication and Role-Based Access Control (RBAC)
+- Developed responsive frontend components with React.js & Bootstrap
 
 ---
 
-### 📊 Spider-Sense Stats
+<h2 align="center">🎓 EDUCATION 🎓</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishke10192377&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishke10192377&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=DC143C&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishke10192377&theme=dark&hide_border=true&background=1a1a2e&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
-</p>
+**B.Tech, Computer Science and Engineering** — Ramgarhia Institute of Engineering and Technology (IKGPTU), Phagwara
+`2021 – 2025` · CGPA: 7.35/10
 
 ---
 
-### 🌆 Swing By My Network
+<h2 align="center">📊 SPIDER-SENSE STATS 📊</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1E3A8A?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/your-instagram-handle"><img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek10192377&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10192377&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=DC143C&text_color=ffffff" />
+</div>
 
-> ✏️ *Upar ke saare links (LinkedIn, Twitter, Instagram, Email) apne actual handles se replace kar dena.*
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek10192377&theme=dark&hide_border=true&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Abhishek10192377&label=Profile%20Views&color=DC143C&style=for-the-badge" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Powered%20by-Coffee%20%26%20Late%20Night%20Debugging-1a1a2e?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC143C,100:000000&height=120&section=footer" width="100%"/>
 
 <h3 align="center">🕸️ "It's not who I am underneath, but what I code that defines me." 🕸️</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishke10192377&label=Profile%20Views&color=DC143C&style=flat" />
-</p>
