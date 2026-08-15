@@ -1,85 +1,98 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
-<h3 align="center">A passionate Software Developer building modern web experiences 🚀</h3>
- 
+<h1 align="center">🕸️ Hey there, I'm Abhishek Kumar 🕸️</h1>
+<h3 align="center">Your Friendly Neighborhood Web Developer</h3>
+
 <p align="center">
-  <img src="./terminal-animation.svg" alt="Typing terminal animation" width="600" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=With+great+code+comes+great+responsibility;Slinging+webs...+and+writing+JavaScript;Building+things+one+commit+at+a+time;Bitten+by+a+radioactive+bug+🕷️" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/STATUS-Web%20Slinging%20in%20Progress-DC143C?style=for-the-badge&labelColor=1a1a2e" />
 </p>
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+
 ---
- 
-### 🧑‍💻 About Me
- 
-- 🔭 I'm currently working on **exciting full-stack projects** using the MERN + TypeScript stack
-- 🌱 Currently leveling up my skills in **Next.js** & **Cloud/DevOps**
-- 💡 I love turning ideas into clean, scalable, and user-friendly applications
-- ⚡ Fun fact: I debug with `console.log` and pray with `try-catch` 😄
-- 📫 Reach me at: **YOUR_EMAIL**
+
+### 🕷️ Origin Story
+
+```
+> Bitten by a radioactive line of code in 20XX
+> Gained the powers of debugging at 3 AM
+> Now I swing between frontend and backend
+>   using React on my left hand, Node.js on my right
+> "Whatever comes my way, I ship it anyway."
+```
+
 ---
- 
-### 🛠️ Tech Stack
- 
+
+### ⚡ My Web-Shooters (Tech Stack)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,git,github,vscode,figma&perline=7" />
+  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=DC143C" />
+  <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=DC143C" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+
+> ✏️ *Yeh mera default web-dev stack hai — apne actual tools ke hisaab se badges add/remove kar lena (jaise TypeScript, Next.js, Tailwind, Docker, etc).*
+
 ---
- 
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+
+### 🏙️ Missions Completed (Projects)
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🕸️ Project Name #1</h3>
+      <p>Ek line mein bata do ye project kya karta hai — jaise "A full-stack e-commerce web app with cart & payment integration."</p>
+      <a href="https://github.com/abhishke10192377"><img src="https://img.shields.io/badge/View%20Repo-DC143C?style=flat-square&logo=github" /></a>
+    </td>
+    <td width="50%">
+      <h3>🕷️ Project Name #2</h3>
+      <p>Ek line mein bata do ye project kya karta hai — jaise "A real-time chat app built with Socket.io."</p>
+      <a href="https://github.com/abhishke10192377"><img src="https://img.shields.io/badge/View%20Repo-1E3A8A?style=flat-square&logo=github" /></a>
+    </td>
+  </tr>
+</table>
+
+> ✏️ *Inn dono cards mein apne actual projects ke naam, description aur repo links daal dena.*
+
 ---
- 
-### 🐍 Contribution Snake
- 
+
+### 📊 Spider-Sense Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishke10192377&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishke10192377&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=DC143C&text_color=ffffff" />
 </p>
-> ⚙️ Snake animation setup instructions are below — needs a one-time GitHub Actions setup.
- 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishke10192377&theme=dark&hide_border=true&background=1a1a2e&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+</p>
+
 ---
- 
-### 🏆 GitHub Trophies
- 
+
+### 🌆 Swing By My Network
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1E3A8A?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/your-instagram-handle"><img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+> ✏️ *Upar ke saare links (LinkedIn, Twitter, Instagram, Email) apne actual handles se replace kar dena.*
+
 ---
- 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/⚡%20Powered%20by-Coffee%20%26%20Late%20Night%20Debugging-1a1a2e?style=for-the-badge" />
 </p>
+
+<h3 align="center">🕸️ "It's not who I am underneath, but what I code that defines me." 🕸️</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abhishke10192377&label=Profile%20Views&color=DC143C&style=flat" />
 </p>
- 
