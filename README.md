@@ -52,7 +52,9 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 <h2 align="center">🕷️ WEB-SHOOTERS (Tech Stack) 🕷️</h2>
 
 <div align="center">
-
+<!-- <div align="center">
+<img src="./red net(1).png" width="100%"/>
+</div> -->
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=DC143C" />
