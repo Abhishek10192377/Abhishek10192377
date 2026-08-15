@@ -150,22 +150,20 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 
 
 ---
+<h2 align="center">🕸️ SPIDER-SENSE STATS 🕸️</h2>
 
-<h2 align="center">📊 SPIDER-SENSE STATS 📊</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek10192377&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek10192377&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10192377&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=DC143C&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhishek10192377&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=DC143C&icon_color=DC143C&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10192377&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=DC143C&text_color=ffffff" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek10192377&theme=dark&hide_border=true&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek10192377&theme=dark&hide_border=true&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" />
 </div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhishek10192377&label=Profile%20Views&color=DC143C&style=for-the-badge" />
-</div>
-
 ---
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC143C,100:000000&height=60&section=footer" width="100%" style="display:block; margin:0;"/>
 <img 
