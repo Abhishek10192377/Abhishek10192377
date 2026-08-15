@@ -93,8 +93,11 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 <div align="center">
 <img src="./web-shooter-strip.svg" width="100%"/>
 </div>
-<h2 align="center">🏙️ MISSIONS COMPLETED (Projects) 🏙️</h2>
-
+<h2 align="center">
+  <img src="./no_change.png" width="10%" />
+  🏙️ MISSIONS COMPLETED (Projects) 🏙️
+  <img src="./no_change.png" width="10%" />
+</h2>
 <table align="center" width="90%">
   <tr>
     <td width="50%" valign="top">
