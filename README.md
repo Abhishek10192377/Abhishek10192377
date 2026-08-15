@@ -136,7 +136,7 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 </td>
 <td width="30%">
 
-<img src="/7f411019de2378deafd8dcfad8b68524.jpg" width="100%"/>
+<img src="/side 3.png" width="100%"/>
 
 </td>
 </tr>
