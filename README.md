@@ -113,8 +113,11 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 <div align="center">
 <img src="./web-shooter-strip.svg" width="100%"/>
 </div>
+<table>
+<tr>
+<td width="70%">
 
-<h2 align="center">💼 EXPERIENCE 💼</h2>
+## 💼 EXPERIENCE 💼
 
 **🕷️ Assistant Software Developer (Full-Time)** — *Lovely Professional University*, Jalandhar
 `July 2025 – Present`
@@ -130,8 +133,14 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 - Integrated JWT-based authentication and Role-Based Access Control (RBAC)
 - Developed responsive frontend components with React.js & Bootstrap
 
----
+</td>
+<td width="30%">
 
+<img src="/7f411019de2378deafd8dcfad8b68524.jpg" width="100%"/>
+
+</td>
+</tr>
+</table>
 <h2 align="center">🎓 EDUCATION 🎓</h2>
 
 **B.Tech, Computer Science and Engineering** — Ramgarhia Institute of Engineering and Technology (IKGPTU), Phagwara
