@@ -143,10 +143,7 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 </td>
 </tr>
 </table>
-<!-- <h2 align="center">🎓 EDUCATION 🎓</h2>
 
-**B.Tech, Computer Science and Engineering** — Ramgarhia Institute of Engineering and Technology (IKGPTU), Phagwara
-`2021 – 2025` · CGPA: 7.35/10 -->
 
 ---
 
@@ -177,4 +174,5 @@ I'm Abhishek Kumar, a Full Stack Web Developer who enjoys turning complex proble
 <h3 align="center" style="margin:10px 0;">
   🕸️ "It's not who I am underneath, but what I code that defines me." 🕸️
 </h3>
+
 
