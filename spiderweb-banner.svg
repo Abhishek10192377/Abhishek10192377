@@ -37,4 +37,32 @@
 <ellipse cx="120" cy="138" rx="4" ry="5" fill="#0a0a0a" stroke="#8b0000" stroke-width="0.5"/>
 <circle cx="120" cy="133" r="2.5" fill="#0a0a0a" stroke="#8b0000" stroke-width="0.5"/>
 </g>
+  <!-- YOUR NAME -->
+<text
+  x="340"
+  y="135"
+  text-anchor="middle"
+  dominant-baseline="middle"
+  fill="#DC143C"
+  font-family="Fira Code, monospace"
+  font-size="34"
+  font-weight="700"
+  letter-spacing="3"
+>
+  ABHISHEK KUMAR
+</text>
+
+<text
+  x="340"
+  y="165"
+  text-anchor="middle"
+  dominant-baseline="middle"
+  fill="#FFFFFF"
+  font-family="Fira Code, monospace"
+  font-size="12"
+  font-weight="500"
+  letter-spacing="3"
+>
+  FULL STACK DEVELOPER
+</text>
 </svg>
