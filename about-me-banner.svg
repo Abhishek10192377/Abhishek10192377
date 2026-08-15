@@ -1,0 +1,112 @@
+<svg width="1000" height="640" viewBox="0 0 1000 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0005"/>
+      <stop offset="55%" stop-color="#0a0000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#DC143C" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="quoteBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a0005"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="640" fill="url(#bg)"/>
+  <rect width="1000" height="640" fill="url(#glow)"/>
+
+  <!-- Web lines radiating from top-left corner -->
+  <g stroke="#DC143C" stroke-width="1" opacity="0.35">
+    <line x1="0" y1="0" x2="1000" y2="120"/>
+    <line x1="0" y1="0" x2="850" y2="0"/>
+    <line x1="0" y1="0" x2="1000" y2="0"/>
+    <line x1="0" y1="0" x2="1000" y2="320"/>
+    <line x1="0" y1="0" x2="700" y2="640"/>
+    <line x1="0" y1="0" x2="400" y2="640"/>
+    <line x1="0" y1="0" x2="120" y2="640"/>
+    <line x1="0" y1="0" x2="0" y2="640"/>
+  </g>
+  <!-- Cross-strands -->
+  <g stroke="#DC143C" stroke-width="0.8" opacity="0.22">
+    <path d="M 60,0 Q 140,90 220,40 T 380,90" fill="none"/>
+    <path d="M 20,140 Q 160,180 280,150 T 520,190" fill="none"/>
+    <path d="M 10,300 Q 220,330 400,300 T 700,330" fill="none"/>
+  </g>
+
+  <!-- Hanging spider top-right -->
+  <line x1="880" y1="0" x2="880" y2="55" stroke="#DC143C" stroke-width="1" opacity="0.6"/>
+  <g transform="translate(880,68)" opacity="0.7">
+    <ellipse cx="0" cy="0" rx="9" ry="12" fill="none" stroke="#DC143C" stroke-width="1.5"/>
+    <circle cx="0" cy="-14" r="5" fill="none" stroke="#DC143C" stroke-width="1.5"/>
+    <line x1="-9" y1="-2" x2="-22" y2="-10" stroke="#DC143C" stroke-width="1.2"/>
+    <line x1="-9" y1="4" x2="-24" y2="4" stroke="#DC143C" stroke-width="1.2"/>
+    <line x1="-9" y1="10" x2="-22" y2="18" stroke="#DC143C" stroke-width="1.2"/>
+    <line x1="9" y1="-2" x2="22" y2="-10" stroke="#DC143C" stroke-width="1.2"/>
+    <line x1="9" y1="4" x2="24" y2="4" stroke="#DC143C" stroke-width="1.2"/>
+    <line x1="9" y1="10" x2="22" y2="18" stroke="#DC143C" stroke-width="1.2"/>
+  </g>
+
+  <!-- Header -->
+  <g transform="translate(60,64)">
+    <circle cx="6" cy="0" r="5" fill="none" stroke="#DC143C" stroke-width="1.3"/>
+    <line x1="1" y1="-4" x2="-5" y2="-9" stroke="#DC143C" stroke-width="1"/>
+    <line x1="1" y1="4" x2="-5" y2="9" stroke="#DC143C" stroke-width="1"/>
+    <line x1="11" y1="-4" x2="17" y2="-9" stroke="#DC143C" stroke-width="1"/>
+    <line x1="11" y1="4" x2="17" y2="9" stroke="#DC143C" stroke-width="1"/>
+  </g>
+  <text x="88" y="80" font-family="'Fira Code', 'Courier New', monospace" font-size="15" letter-spacing="4" fill="#DC143C" opacity="0.85">CLASSIFIED FILE // 0x1A</text>
+  <text x="60" y="130" font-family="'Fira Code', 'Courier New', monospace" font-size="42" font-weight="700" fill="#DC143C">CASE FILE: ABHISHEK KUMAR</text>
+  <text x="60" y="164" font-family="'Fira Code', 'Courier New', monospace" font-size="17" font-style="italic" fill="#c9c9c9">Full Stack Web Developer — turning complex problems into</text>
+  <text x="60" y="188" font-family="'Fira Code', 'Courier New', monospace" font-size="17" font-style="italic" fill="#c9c9c9">clean, scalable, user-friendly applications.</text>
+
+  <line x1="60" y1="212" x2="940" y2="212" stroke="#DC143C" stroke-width="1" opacity="0.3"/>
+
+  <!-- Stat rows -->
+  <g fill="#DC143C">
+    <rect x="60" y="243" width="9" height="9" transform="rotate(45 64.5 247.5)"/>
+    <rect x="60" y="285" width="9" height="9" transform="rotate(45 64.5 289.5)"/>
+    <rect x="60" y="327" width="9" height="9" transform="rotate(45 64.5 331.5)"/>
+    <rect x="60" y="369" width="9" height="9" transform="rotate(45 64.5 373.5)"/>
+    <rect x="60" y="411" width="9" height="9" transform="rotate(45 64.5 415.5)"/>
+    <rect x="60" y="453" width="9" height="9" transform="rotate(45 64.5 457.5)"/>
+    <rect x="60" y="495" width="9" height="9" transform="rotate(45 64.5 499.5)"/>
+  </g>
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="18">
+    <text x="90" y="256" fill="#ffffff" font-weight="700">Current Role</text>
+    <text x="330" y="256" fill="#bfbfbf">Assistant Software Developer @ Lovely Professional University</text>
+
+    <text x="90" y="298" fill="#ffffff" font-weight="700">Building</text>
+    <text x="330" y="298" fill="#bfbfbf">Student &amp; Staff UMS Modules</text>
+
+    <text x="90" y="340" fill="#ffffff" font-weight="700">Primary Stack</text>
+    <text x="330" y="340" fill="#bfbfbf">Next.js · TypeScript · Material UI</text>
+
+    <text x="90" y="382" fill="#ffffff" font-weight="700">Shipped</text>
+    <text x="330" y="382" fill="#bfbfbf">Full-stack Email Distribution System</text>
+
+    <text x="90" y="424" fill="#ffffff" font-weight="700">Creator of</text>
+    <text x="330" y="424" fill="#bfbfbf">Novel Web — MERN Reading &amp; Publishing Platform</text>
+
+    <text x="90" y="466" fill="#ffffff" font-weight="700">Education</text>
+    <text x="330" y="466" fill="#bfbfbf">B.Tech, Computer Science &amp; Engineering</text>
+
+    <text x="90" y="508" fill="#ffffff" font-weight="700">Always</text>
+    <text x="330" y="508" fill="#bfbfbf">Learning &amp; Exploring, Frontend to Backend</text>
+  </g>
+
+  <!-- Quote block -->
+  <rect x="60" y="548" width="880" height="60" fill="url(#quoteBg)" stroke="#DC143C" stroke-width="0.6" opacity="0.9"/>
+  <rect x="60" y="548" width="4" height="60" fill="#DC143C"/>
+  <g transform="translate(92,573)">
+    <circle cx="0" cy="0" r="4.5" fill="none" stroke="#DC143C" stroke-width="1.1"/>
+    <line x1="-3.5" y1="-3" x2="-9" y2="-7" stroke="#DC143C" stroke-width="0.9"/>
+    <line x1="-3.5" y1="3" x2="-9" y2="7" stroke="#DC143C" stroke-width="0.9"/>
+    <line x1="3.5" y1="-3" x2="9" y2="-7" stroke="#DC143C" stroke-width="0.9"/>
+    <line x1="3.5" y1="3" x2="9" y2="7" stroke="#DC143C" stroke-width="0.9"/>
+  </g>
+  <text x="112" y="584" font-family="'Fira Code', 'Courier New', monospace" font-size="17" font-style="italic" fill="#e6e6e6">"With great code comes great responsibility."</text>
+</svg>
